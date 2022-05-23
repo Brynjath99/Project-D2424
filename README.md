@@ -9,6 +9,6 @@ low complexity and are easier to optimize.
 The approaches used in our study includes Weight Decay, Dropout, Data Augmentation,
 Standardization, Batch Normalization, Cosine Annealing, making VGGs look like ResNet, ex-
 tensive data augmentation and exploring various Normalization techniques. In this paper, we
-demonstrate results at 89.16 % by empirically examining CIFAR-10 data. Moreover, the exper-
-iments used in the paper are implemented using Tensorflow deep learning packages.
+demonstrate results at 89.16 % by empirically examining CIFAR-10 data. Moreover, the experiments 
+used in the paper are implemented using Tensorflow deep learning packages.
 
