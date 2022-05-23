@@ -1,5 +1,5 @@
-# Project D2424
- Main Project D2424 KTH
+# D2424: Deep Learning in Data Science Project 2022
+
 Convolutional Neural Networks (CNN) are commonly used for Image classification. In this
 paper, we propose numerous methods to build and train a modern ConvNet architecture from
 scratch. Since the deeper neural networks are more diﬀicult to train, for this, we extend the
